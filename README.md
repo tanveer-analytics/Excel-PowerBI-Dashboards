@@ -47,4 +47,4 @@ Welcome to my portfolio showcasing data analysis, visualization, and dashboard p
 ## 📬 Contact
 - **Name:** Tanveer  
 - **Email:** Tanveer.khan3171@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)  
+- **LinkedIn:** [linkedin.com/in/tanveer-khan-8b1348236)  
